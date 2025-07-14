@@ -1,0 +1,12 @@
+{
+  "telemetry": [
+    {
+      "timestamp": 1688203200000,
+      "value": 100
+    },
+    {
+      "timestamp": 1688203260000,
+      "value": 105
+    }
+  ]
+}
